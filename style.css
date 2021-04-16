@@ -1,0 +1,46 @@
+body{
+    background-color:  #D2D0D0;
+}
+img{
+    width:110%;
+    height:30%;
+    margin-left:25% ;
+}
+
+div{
+    margin-left: 10%;
+    margin-right:20%;
+ 
+}
+li {
+    margin: 0 2vw;
+    font-size: 1.1rem;
+   
+} 
+
+h1{
+    text-align: center;
+    color:  #283747  ;
+    font-family: Sans-serif;
+}
+
+h2{
+    text-align: center;
+    color: #283747 ;
+    font-family: Helvetica;
+}
+
+h4{
+    text-align:center;
+    font-family: Helvetica;
+    color: #283747 ;
+}
+h5{
+    text-align:center;
+    font-family: Helvetica;
+}
+p{
+   
+    color: #283747 ;
+    font-family: Helvetica;
+}
